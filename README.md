@@ -29,6 +29,8 @@ or open terminal in the directory where you just cloned and
 **Now to run the script, just use:**
 
 `python3 /path/to/set_wallpaper.py`
+`python3 /path/to/set_wallpaper.py --help` for extra options
+
 
     
 
